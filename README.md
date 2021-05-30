@@ -1,3 +1,4 @@
+![strona](https://user-images.githubusercontent.com/79590271/120119858-43b51f80-c19a-11eb-9639-3121d17c9571.png)
 # Zadanie1-HTML
 Repozytorium zawiera rozwiązanie do Zadania 1 pochodzącego z zajęć dotyczących nauki języka HTML oraz JavaScript. 
 
