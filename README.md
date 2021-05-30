@@ -5,10 +5,8 @@ Repozytorium zawiera rozwiązanie do Zadania 1 pochodzącego z zajęć dotycząc
 ## Spis treści:
 * [Technologie](#technologie)
 * [Opis zadania](#opis-zadania)
-* [Status projektu](#status-projektu)
 * [Wygląd strony internetowej](#wyglad-strony-internetowej)
-
-
+* [Status projektu](#status-projektu)
 ## Technologie
 Program został napisany w całości w języku HTML używając programu Notepad++.
 ## Opis zadania
